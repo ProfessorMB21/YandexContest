@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YandexContest", "YandexContest\YandexContest.vcxproj", "{BAB54058-DF25-428A-9BF8-B91606F658F3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "YandexContestPy", "YandexContestPy\YandexContestPy.pyproj", "{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Debug|Any CPU.Build.0 = Debug|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Debug|x64.ActiveCfg = Debug|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Debug|x64.Build.0 = Debug|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Debug|x86.Build.0 = Debug|Win32
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Release|Any CPU.ActiveCfg = Release|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Release|Any CPU.Build.0 = Release|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Release|x64.ActiveCfg = Release|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Release|x64.Build.0 = Release|x64
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Release|x86.ActiveCfg = Release|Win32
+		{BAB54058-DF25-428A-9BF8-B91606F658F3}.Release|x86.Build.0 = Release|Win32
+		{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}.Release|x64.ActiveCfg = Release|Any CPU
+		{C0F40B0D-65BF-40F3-803B-7EBBDD04D573}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E983758-DEA2-4808-8119-C163B3D117E7}
+	EndGlobalSection
+EndGlobal
