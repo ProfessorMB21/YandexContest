@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c0f40b0d-65bf-40f3-803b-7ebbdd04d573</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>telephone_book.py</StartupFile>
+    <StartupFile>binary_search.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,8 +21,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="binary_search.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="module1.py" />
-    <Compile Include="telephone_book.py">
+    <Compile Include="counting_sort.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="YandexContestPy.py" />
