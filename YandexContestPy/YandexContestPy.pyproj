@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c0f40b0d-65bf-40f3-803b-7ebbdd04d573</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>huffman_coding.py</StartupFile>
+    <StartupFile>chain_hashing.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="binary_tree_traversal.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="chain_hashing.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="huffman_coding.py">
